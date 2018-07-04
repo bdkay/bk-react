@@ -30,7 +30,7 @@ const AboutPage = (props, context) => {
             <p>
               My current favorite language is <span className="highlight">JavaScript</span> and I love everything having to do with the open web.
             </p>
-            <img src="http://brendonkuleck.com/images/brendon_profile.png" style={{ display: "inline" }}/>
+            <img src="http://brendonkuleck.com/images/brendon_profile.png" className="profile-img" style={{ display: "inline" }}/>
             <p>
               HTML5, CSS3, JavaScript (ES6, ECMA2015), JS frameworks (<span className="highlight">React</span>, Redux, Node, Angular, Ember), npm, <span className="highlight">MongoDB</span>, RESTful APIs, babel, jslint, webpack, version control (Git/SVN), AWS are just a few of the tools in my current toolbox.
             </p>
