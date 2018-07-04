@@ -59,9 +59,14 @@ html {
   @include breakpoint-large-up {
     font-size: 18px;
 	}
-	
+
 	@include breakpoint-xxlarge-up {
     font-size: 20px;
+  }
+  a {
+  	z-index:99;
+  	text-decoration: none;
+  	cursor: pointer;
   }
 }
 
@@ -91,10 +96,6 @@ h1 {
 	}
 }
 
-::-webkit-scrollbar { 
-	display: none; 
-}
-
-a {
-	text-decoration: none;
+::-webkit-scrollbar {
+	display: none;
 }
