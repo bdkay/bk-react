@@ -7,7 +7,11 @@
 	flex: 0 1 auto;
 	flex-direction: column;
   justify-content: center;
-  
+  .about-link {
+    color: #333;
+    text-decoration: underline;
+  }
+
   @include breakpoint-small-down {
     padding-top: 3rem;
   }
@@ -22,11 +26,16 @@
   }
 
   .about-wrapper {
-    
+
     .about-content {
       font-size: 0.875rem;
       line-height: 1.5rem;
-      
+
+      img {
+        float: left;
+        margin-right: 1em;
+      }
+
       @include breakpoint-small-down {
         font-size: 1rem;
       }
@@ -44,5 +53,10 @@
       }
     }
   }
+}
 
+.portfolio-item__title {
+  .portfolio-link {
+    text-decoration: underline;
+  }
 }

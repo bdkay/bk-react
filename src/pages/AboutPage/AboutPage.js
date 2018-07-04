@@ -30,6 +30,7 @@ const AboutPage = (props, context) => {
             <p>
               My current favorite language is <span className="highlight">JavaScript</span> and I love everything having to do with the open web.
             </p>
+            <img src="http://brendonkuleck.com/images/brendon_profile.png" style={{ display: "inline" }}/>
             <p>
               HTML5, CSS3, JavaScript (ES6, ECMA2015), JS frameworks (<span className="highlight">React</span>, Redux, Node, Angular, Ember), npm, <span className="highlight">MongoDB</span>, RESTful APIs, babel, jslint, webpack, version control (Git/SVN), AWS are just a few of the tools in my current toolbox.
             </p>
@@ -43,15 +44,15 @@ const AboutPage = (props, context) => {
               In addition this plethroa of overwhelmingly diverse subjects, I also enjoy reading, listening to music, collecting sneakers, fishing, hiking, camping, playing hockey, <span className="highlight">taking pictures of my cat</span> and watching orange and brown ball sports.
             </p>
             <p>
-              Not to mention <a href="https://twitter.com/JalenRose/status/277310949604601856" target="_blank">Jalen Rose once replied to me on Twitter</a>.
+              Not to mention <a href="https://twitter.com/JalenRose/status/277310949604601856" className="about-link" rel="noreferrer noopener" target="_blank">Jalen Rose once replied to me on Twitter</a>.
             </p>
+          </div>
+          <div className="about-content" style={{ color: textPrimary }}>
             <p className="text-emoji" style={{ color: colorPrimary }}>
               \ (•◡•) /
             </p>
           </div>
-          <div className="about-content" style={{ color: textPrimary }}>
-            <img src="http://brendonkuleck.com/images/brendon_profile.png" />
-          </div>
+          <br /><hr /><br />
         </div>
       </div>
       <ScrollToNext pageSelector=".portfolio-page" />
