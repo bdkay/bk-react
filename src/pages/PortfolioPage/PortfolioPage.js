@@ -36,6 +36,7 @@ const PortfolioPage = (props, context) => {
             <PortfolioItem render={item.render} key={i} />
           ))}
         </div>
+        <br /><br />
       </div>
       <ScrollToPrevious pageSelector=".about-page" />
     </div>
