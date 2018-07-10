@@ -204,7 +204,7 @@ export default [{
         <i className="fab fa-git"></i>
         <i className="fab fa-js"></i>
         <i className="fas fa-mobile"></i>
-        <i class="fab fa-wpforms"></i>
+        <i className="fab fa-wpforms"></i>
       </div>
       <div className='portfolio-item__links'>
         <a href="http://www.dailynebraskan.com/fafsa-redesign-aims-to-simplify-aid-application/article_a149d2b3-19c2-5ec6-8d20-b2b2eed620cc.html" className="portfolio-link" target="_blank" rel="noreferrer noopener">Simplify</a>
