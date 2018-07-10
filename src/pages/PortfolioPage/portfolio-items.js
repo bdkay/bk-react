@@ -19,7 +19,7 @@ export default [{
         <i className="fas fa-mobile"></i>
       </div>
       <div className='portfolio-item__links'>
-        <a href="https://www.nike.com/us/en_us/c/nikeid" className="portfolio-link" target="_blank" rel="noreferrer noopener">NiKE ID</a>
+        <a href="https://www.nike.com/us/en_us/c/nikeid" className="portfolio-link" target="_blank" rel="noreferrer noopener">NiKE iD</a>
         <a href="https://www.rga.com/work/case-studies/nikeid" target="_blank" rel="noopener noreferrer">R/GA</a>
       </div>
     </div>
