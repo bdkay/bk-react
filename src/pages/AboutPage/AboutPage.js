@@ -55,7 +55,7 @@ const AboutPage = (props, context) => {
               \ (•◡•) /
             </p>
           </div>
-          <br /><hr /><br />
+          <br /><br />
         </div>
       </div>
       <ScrollToNext pageSelector=".portfolio-page" />
