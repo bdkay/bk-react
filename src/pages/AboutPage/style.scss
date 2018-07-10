@@ -32,9 +32,20 @@
       font-size: 0.875rem;
       line-height: 1.5rem;
 
+      .profile-img-container {
+        width: 264px;
+      }
+
       .profile-img {
         float: left;
         margin: 15px 30px 0 0;
+        @include breakpoint-medium-down {
+          width: 25%;
+          margin: 15px 30px 15px 0;
+        }
+        @include breakpoint-small-down {
+          display: none !important;
+        }
       }
 
       @include breakpoint-small-down {
