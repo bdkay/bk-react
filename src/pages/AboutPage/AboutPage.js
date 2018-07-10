@@ -25,14 +25,14 @@ const AboutPage = (props, context) => {
         <div className="about-wrapper">
           <div className="about-content" style={{ color: textPrimary }}>
             <p>
-              Like many, my humble beginnings lie in the worlds Geocities, Angelfire and Tripod, coding for fun by hand in NotePad (WordPad introduced hidden characters!) and in the mid-90s but have grown and expanded into the modern landscape of robustly-featured internet applications as the web has developed.
+              Like many, my humble beginnings lie in the worlds Geocities, Angelfire and Tripod, coding for fun by hand in NotePad (WordPad introduced hidden characters!) and the mid-90s but have since grown and expanded into the modern landscape of robustly-featured internet applications, as the web did.
             </p>
             <p>
               My current favorite language is <span className="highlight">JavaScript</span> and I love everything having to do with the open web.
             </p>
             <img src="http://brendonkuleck.com/images/brendon_profile.png" className="profile-img" style={{ display: "inline" }}/>
             <p>
-              HTML5, CSS3, JavaScript (ES6 // ECMA2015), JS frameworks (<span className="highlight">React</span> (with or without Redux), Node, Angular, Ember), npm, <span className="highlight">MongoDB</span>, RESTful APIs, babel, jslint, webpack, version control (Git/SVN), AWS are just a few of the tools in my current toolbox.
+              HTML5, CSS3, JavaScript (ES6 // ECMA2015), JS frameworks (<span className="highlight">React</span> (with or without Redux), Node, Angular), npm, yarn, meteor, MongoDB, REST, babel, jslint, webpack, AWS are just a few of the tools in my current toolbox.
             </p>
             <p>
               When it comes to programming paradigms, I'm educated in classical OOP but have been more and more interested in functional programming: first-class functions, higher order functions, functions as arguments/value.
