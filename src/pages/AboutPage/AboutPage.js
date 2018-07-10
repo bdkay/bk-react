@@ -44,7 +44,7 @@ const AboutPage = (props, context) => {
               Professionally, I've developed applications such as the <span className="highlight">NiKEiD Creator</span> as a consultant at R/GA, <span className="highlight">Groupon's web and email platforms as well as internal tools</span>, the US Dept of Education with Accenture and promotional and interactive websites/apps for Fortune 500 companies like HP, Motorola, Burger King, GE, GM, Walgreen's, Johnnie Walker, Land Rover, United and AARP while at DesignKitchen.
             </p>
             <p>
-              In addition this plethroa of overwhelmingly diverse subjects, I also enjoy reading, listening to music, collecting sneakers, fishing, hiking, camping, playing hockey, <span className="highlight">taking pictures of my cat</span> and watching orange and brown ball sports. I also love 90s action movies and anything having to do with time travel or personally incomprehensible scientific subjects.
+              In addition this plethroa of overwhelmingly diverse subjects, I also enjoy reading, listening to music, collecting sneakers, fishing, hiking, camping, playing hockey and basketball, <span className="highlight">taking pictures of my cat</span> and watching orange and brown ball sports. I also love 90s action movies (especially Van Damme and Seagal) and anything having to do with time travel or personally incomprehensible scientific subjects.
             </p>
             <p>
               Not to mention <a href="https://twitter.com/JalenRose/status/277310949604601856" className="about-link" rel="noreferrer noopener" target="_blank">Jalen Rose once replied to me on Twitter</a>.
