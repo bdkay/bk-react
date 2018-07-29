@@ -35,9 +35,6 @@ const AboutPage = (props, context) => {
               HTML5, CSS3, JavaScript (ES6 // ECMA2015), JS frameworks (<span className="highlight">React</span> (with or without Redux), Node, Angular), npm, yarn, meteor, MongoDB, REST, babel, jslint, webpack, AWS are just a few of the tools in my current toolbox.
             </p>
             <p>
-              When it comes to programming paradigms, I'm educated in classical OOP but have been more and more interested in functional programming (first-class functions, higher order functions, functions as arguments/value, etc).
-            </p>
-            <p>
               Professionally, I've developed applications such as the <span className="highlight">NiKEiD Creator</span> as a consultant at <span className="highlight">R/GA</span>, <span className="highlight">Groupon</span>'s web, email and internal tool platforms, the redesigned <span className="highlight">US Dept of Education FAFSA Portal</span> with Accenture and promotional and interactive websites/apps for Fortune 500 companies like HP, Motorola, Burger King, GE, GM, Walgreen's, Johnnie Walker, Land Rover, United and AARP while at <span className="highlight">DesignKitchen</span>.
             </p>
             <p>
