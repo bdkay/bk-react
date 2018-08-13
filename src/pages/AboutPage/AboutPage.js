@@ -28,7 +28,7 @@ const AboutPage = (props, context) => {
               Like many, my humble beginnings lie in the worlds of Geocities, Angelfire and Tripod, coding for fun by hand in NotePad (WordPad introduced hidden characters!) and the mid-90s but have since grown and expanded into the modern landscape of robustly-featured applications as the web did.
             </p>
             <p>
-              My current favorite language is <span className="highlight">JavaScript</span> and I love everything having to do with open source. HTML5, CSS3, JavaScript (ES6), React, Flux, Redux, Node, Angular, npm, webpack, yarn, babel and lint are just a few of the other tools in my current toolbox.and I love everything having to do with the open source web.
+              My current favorite language is <span className="highlight">JavaScript</span> and I love everything having to do with open source. Lately, I've mostly been writing JavaScript (ES6) with React and Redux and experimenting with PWA concepts.
             </p>
             <img src="http://brendonkuleck.com/images/brendon_profile.png" className="profile-img" style={{ display: "inline" }}/>
             <p>
