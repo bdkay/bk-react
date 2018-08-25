@@ -31,9 +31,6 @@ const AboutPage = (props, context) => {
               My current favorite language is <span className="highlight">JavaScript</span> and I love everything having to do with open source. Lately, I've mostly been writing JavaScript (ES6) with React and Redux and experimenting with PWA concepts.
             </p>
             <img src="http://brendonkuleck.com/images/brendon_profile.png" className="profile-img" style={{ display: "inline" }}/>
-            <p>
-              When it comes to programming paradigms, I'm educated in classical OO but have been digging more and more into the functional programming side of things.
-            </p>
             <p>Professionally I've developed applications including the <span className="highlight">NiKEiD Creator</span> with <span className="highlight">R/GA</span>, <span className="highlight">Groupon</span>'s web, email and internal tool platforms, the redesigned <span className="highlight">US Dept of Education FAFSA Portal</span> with Accenture and promotional and interactive websites, games and apps for Fortune 500 companies like HP, Motorola, Burger King, GE, GM, Walgreen's, Johnnie Walker, Land Rover, United and AARP while at <span className="highlight">DesignKitchen</span>.
             </p>
             <p>
