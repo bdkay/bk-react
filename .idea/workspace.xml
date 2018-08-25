@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="571333f4-cfff-4a43-8562-2da848c99d57" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Footer/Footer.js" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/AboutPage/AboutPage.js" afterPath="$PROJECT_DIR$/src/pages/AboutPage/AboutPage.js" />
-    </list>
+    <list default="true" id="571333f4-cfff-4a43-8562-2da848c99d57" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +47,7 @@
       <file leaf-file-name="AboutPage.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/AboutPage/AboutPage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
+            <state relative-caret-position="141">
               <caret line="43" column="12" lean-forward="false" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="70" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
@@ -402,12 +398,12 @@
       <updated>1533689727856</updated>
       <workItem from="1533689729631" duration="272000" />
       <workItem from="1534187388360" duration="137000" />
-      <workItem from="1535237825639" duration="611000" />
+      <workItem from="1535237825639" duration="672000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1020000" />
+    <option name="totallyTimeSpent" value="1081000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="68" y="23" width="1612" height="1027" extended-state="0" />
@@ -503,7 +499,7 @@
         <state relative-caret-position="1564">
           <caret line="69" column="30" lean-forward="true" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="30" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#0#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -529,7 +525,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/AboutPage/AboutPage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
+        <state relative-caret-position="141">
           <caret line="43" column="12" lean-forward="false" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="70" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
