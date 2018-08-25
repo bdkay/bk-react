@@ -8,8 +8,7 @@ const Footer = (props, context) => {
   return (
     <footer>
       <div className="content-grid">
-        <div className="text-emoji" style={{ color: colorPrimary }}>/ᐠ. ᴗ.ᐟ\ﾉ</div><br />
-        <div style={{ color: textPrimary }}><a href="https://github.com/bdkay" target="_blank" rel="noopener noreferrer" style={{ color: colorPrimary }}>https://github.com/bdkay</a></div>
+        <div style={{ color: colorPrimary }}><a href="https://github.com/bdkay" target="_blank" rel="noopener noreferrer" style={{ color: colorPrimary }}>https://github.com/bdkay</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  /ᐠ. ᴗ.ᐟ\ﾉ</div>
       </div>
     </footer>
   );
