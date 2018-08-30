@@ -15,6 +15,7 @@ const SocialIcons = (props, context) => {
         <a target="_blank" rel="noopener noreferrer" href="http://instagram.com/bdkay" style={ { color: colorPrimary } }><i className="fab fa-instagram"></i></a>
         <a target="_blank" rel="noopener noreferrer" href="https://www.last.fm/user/bdkay" style={ { color: colorPrimary } }><i className="fab fa-lastfm"></i></a>
         <a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/profile/bdkay" style={ { color: colorPrimary } }><i className="fab fa-apple"></i></a>
+        <a target="_blank" rel="noopener noreferrer" href="#" style={ { color: colorPrimary } }><i className="fab fa-btc"></i></a>
       </div>
   );
 };

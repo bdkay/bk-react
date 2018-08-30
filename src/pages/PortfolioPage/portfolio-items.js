@@ -56,7 +56,7 @@ export default [{
         <a href="https://returnpath.com/newsroom/groupon-sees-40-increase-delivery-speed-increased-email-response-rates-return-path-certification-immediate-roi/" className="portfolio-link" target="_blank" rel="noreferrer noopener">Groupon</a>
       </div>
       <div className='portfolio-item__desc'>
-        Working on the Push Marketing Internal Tools team, I successfully leveraged AngularJS and DS3 in building various internal tools, allowing marketing and product owners to construct, preview and test emails in the browser without having to endure a convoluted pre-flight process, maximizing their efficiency.
+        As a core member of the Push Marketing Internal Tools team, I successfully leveraged JavaScript and various VMC frameworks in leading the build of an integral internal tool which allowed marketing and product owners to design, construct, preview and test emails in the custom browser SPA.
       </div>
       <div className='portfolio-item__icon'>
         <i className="fab fa-git"></i>
@@ -198,7 +198,7 @@ export default [{
         <a href="https://fafsa.ed.gov/" className="portfolio-link" target="_blank" rel="noreferrer noopener">FAFSA</a>
       </div>
       <div className='portfolio-item__desc'>
-        From concept development to design to web and native app development, while implmenting the re-design of a major U.S. Department of Education web application as a prototype with high visual and functional fidelity I enjoyed the challenge of each iteration and examining the scope of the project, exploring which features should be included in order to showcase the desired user experience.
+        My partner and I were responsible for the re-design of a major U.S. Department of Education web application as a prototype with high visual and functional fidelity. I enjoyed the challenge of working in a lean, paired team, examining the scope of the project and its features with each iteration, exploring the best way to express the new design while showcasing the improved user experience.
       </div>
       <div className='portfolio-item__icon'>
         <i className="fab fa-git"></i>
