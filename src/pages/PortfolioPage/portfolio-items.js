@@ -56,7 +56,7 @@ export default [{
         <a href="https://returnpath.com/newsroom/groupon-sees-40-increase-delivery-speed-increased-email-response-rates-return-path-certification-immediate-roi/" className="portfolio-link" target="_blank" rel="noreferrer noopener">Groupon</a>
       </div>
       <div className='portfolio-item__desc'>
-        As a core member of the Push Marketing Internal Tools team, I successfully leveraged JavaScript and various VMC frameworks in leading the build of an integral internal tool which allowed marketing and product owners to design, construct, preview and test emails in the custom browser SPA.
+        As a core member of the Push Marketing Internal Tools team, I successfully leveraged JavaScript and various MVC frameworks in leading the build of an integral internal tool which allowed marketing and product owners to design, construct, preview and test emails in the custom browser SPA.
       </div>
       <div className='portfolio-item__icon'>
         <i className="fab fa-git"></i>
