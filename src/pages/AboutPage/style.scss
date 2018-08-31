@@ -44,7 +44,8 @@
           margin: 15px 30px 15px 0;
         }
         @include breakpoint-small-down {
-          display: none !important;
+          width: 50%;
+          margin: 7px 15px 7px 0;
         }
       }
 
