@@ -67,12 +67,35 @@ export default [{
         <i className="far fa-envelope-open"></i>
       </div>
       <div className='portfolio-item__links'>
-        <a href="https://engineering.groupon.com/" className="portfolio-link" target="_blank" rel="noreferrer noopener">Engineering</a>
         <a href="https://www.groupon.com/" target="_blank" rel="noopener noreferrer">Groupon</a>
       </div>
     </div>
   )
-}, {
+},
+  {
+    name: 'dev-landing-page',
+    render: (
+      <div className='portfolio-item'>
+        <div className='portfolio-item__title'>
+          <a href="https://engineering.groupon.com/" className="portfolio-link" target="_blank" rel="noreferrer noopener">Groupon Engineering Blog</a>
+        </div>
+        <div className='portfolio-item__desc'>
+          Rapidly prototyped a redesign of the Groupon Engineering blog as a part of Geekfest 2014 using node and ghost -- a fully open source, adaptable platform for modern online publications. This was then integrated into WP to allow ease of contribution across all engineering departments.
+        </div>
+        <div className='portfolio-item__icon'>
+          <i className="fab fa-git"></i>
+          <i className="fab fa-js"></i>
+          <i className="fab fa-npm"></i>
+          <i className="fab fa-node"></i>
+          <i class="fab fa-wordpress" ></i>
+        </div>
+        <div className='portfolio-item__links'>
+          <a href="https://engineering.groupon.com/" className="portfolio-link" target="_blank" rel="noreferrer noopener">Engineering Blog</a>
+        </div>
+      </div>
+    )
+  },
+  {
   name: 'dev-landing-page',
   render: (
     <div className='portfolio-item'>
