@@ -18,8 +18,8 @@ const LandingPage = (props, context) => {
         <div className="intro-wrapper">
           <div className="intro-name">Hello, I'm Brendon!</div>
           <div className="tagline">
-            Software Engineer | Open-Source Enthusiast | Writer<br /><br />
-            <i className="far fa-building"></i>&nbsp; <span class="city-header">CHICAGO, IL</span>
+            Software Engineer | Writer | Open-Source Enthusiast<br /><br />
+            <i className="far fa-building"></i>&nbsp; <span class="city-header">Chicago, IL</span>
           </div>
           <SocialIcons />
         </div>

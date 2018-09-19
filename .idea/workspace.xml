@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="571333f4-cfff-4a43-8562-2da848c99d57" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/pic.jpeg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/AboutPage/style.scss" afterPath="$PROJECT_DIR$/src/pages/AboutPage/style.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/LandingPage/LandingPage.js" afterPath="$PROJECT_DIR$/src/pages/LandingPage/LandingPage.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,8 +39,8 @@
       <file leaf-file-name="LandingPage.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pages/LandingPage/LandingPage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="21" column="91" lean-forward="false" selection-start-line="21" selection-start-column="91" selection-end-line="21" selection-end-column="91" />
+            <state relative-caret-position="335">
+              <caret line="20" column="63" lean-forward="false" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -63,7 +61,7 @@
       <file leaf-file-name="portfolio-items.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/PortfolioPage/portfolio-items.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1591">
+            <state relative-caret-position="1321">
               <caret line="82" column="98" lean-forward="false" selection-start-line="82" selection-start-column="98" selection-end-line="82" selection-end-column="98" />
               <folding />
             </state>
@@ -811,12 +809,12 @@
       <workItem from="1535656729092" duration="80000" />
       <workItem from="1535692961252" duration="1110000" />
       <workItem from="1537022851405" duration="1751000" />
-      <workItem from="1537376897606" duration="382000" />
+      <workItem from="1537376897606" duration="650000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6887000" />
+    <option name="totallyTimeSpent" value="7155000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="62" y="23" width="1618" height="1027" extended-state="6" />
@@ -1022,6 +1020,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1051,6 +1050,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1072,6 +1072,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1100,6 +1101,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1114,6 +1116,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1136,6 +1139,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1224,7 +1228,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/PortfolioPage/portfolio-items.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1591">
+        <state relative-caret-position="1321">
           <caret line="82" column="98" lean-forward="false" selection-start-line="82" selection-start-column="98" selection-end-line="82" selection-end-column="98" />
           <folding />
         </state>
@@ -1240,8 +1244,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/LandingPage/LandingPage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="21" column="91" lean-forward="false" selection-start-line="21" selection-start-column="91" selection-end-line="21" selection-end-column="91" />
+        <state relative-caret-position="335">
+          <caret line="20" column="63" lean-forward="false" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
