@@ -3,6 +3,13 @@
 .city-header {
   font-weight: 500;
   font-size: 28px;
+  @include breakpoint-medium-down {
+    font-size: 90%;
+  }
+  @include breakpoint-small-down {
+    width: 75%;
+    margin: 7px 15px 7px 0;
+  }
 }
 
 .about-page {
