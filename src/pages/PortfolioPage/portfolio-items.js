@@ -8,7 +8,7 @@ export default [{
         <a href="https://www.nike.com/us/en_us/c/nikeid" className="portfolio-link" target="_blank" rel="noreferrer noopener">NiKEiD</a>
       </div>
       <div className='portfolio-item__desc'>
-        NiKEiD invites anyone to be a designer by customizing Nike products, from shoes to team jerseys to equipment. Today, the product is the interface. Guests simply pick their favorite kicks and start designing by directly touching any piece in any order. But it doesn’t stop at just colors, patterns, and tags.
+        The online NiKEiD creation tool that empowers anyone to become a product designer, providing the ability to fully customize a vast swath of Nike products-— from shoes to team jerseys to sporting equipment. Today, the product is the interface. Guests simply pick their favorite kicks and start designing by directly touching any piece in any order. But it doesn't just stop at colors, patterns, and tags.
       </div>
       <div className='portfolio-item__icon'>
         <i className="fab fa-git"></i>

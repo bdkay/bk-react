@@ -18,7 +18,7 @@ const AboutPage = (props, context) => {
           ::selection {
             background-color: ${colorHighlight};
           }
-        `}
+        `}z
       </style>
       <div className="content-grid">
         <h1 style={{ color: colorPrimary }}>About</h1>
@@ -31,7 +31,7 @@ const AboutPage = (props, context) => {
               Currently, my favorite language is <span className="highlight">JavaScript</span> and I love everything having to do with the open source community. Lately, I've mostly been writing JavaScript (ES6) with React and Redux and experimenting with PWA concepts.
             </p>
             <img src="http://brendonkuleck.com/images/brendon_profile.png" className="profile-img" style={{ display: "inline" }}/>
-            <p>In my professional career I've developed a diverse array of both consumer and business facing applications including the online <span className="highlight">NiKEiD Creator</span>, <span className="highlight">Groupon</span>'s web, email and internal tool platforms, implemented the redesigned <span className="highlight">US Dept of Education FAFSA Portal</span> with Accenture and promotional and interactive websites, games and apps for Fortune 500 companies including HP, Motorola, TD Ameritrade, Burger King, Land Rover, GE, GM, Walgreen's, Johnnie Walker, United and AARP while at <span className="highlight">DesignKitchen</span>.
+            <p>In my professional career I've developed a diverse array of both consumer and business facing applications, including the online <span className="highlight">NiKEiD Creator</span>, <span className="highlight">Groupon</span>'s web, email and internal tool platforms, the implementation of a redesigned <span className="highlight">US Dept of Education FAFSA Portal</span> with Accenture and promotional and interactive websites, games and apps for Fortune 500 companies including HP, Motorola, TD Ameritrade, Burger King, Land Rover, GE, GM, Walgreen's, Johnnie Walker, United and AARP while at <span className="highlight">DesignKitchen</span>.
             </p>
             <p>
               In addition this plethroa of overwhelmingly diverse subjects I also enjoy reading, listening to music, collecting sneakers, comedy, live music, fishing, hiking, camping, playing hockey and basketball (<a href="https://fastmodelsports.com/" className="about-link" rel="noreferrer noopener" target="_blank">professionally</a>), taking pictures of my cat <a href="http://instagram.com/bdkay" className="about-link" rel="noreferrer noopener" target="_blank">Simon</a>🐱 and watching orange and brown ball sports. I also love Seinfeld, 90s action movies (especially Van Damme and Seagal) and anything having to do with time travel or personally incomprehensible scientific subjects.
